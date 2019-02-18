@@ -19,7 +19,7 @@ spring.jmx:
   enabled: false
 spring.datasource:
   driverClassName: com.mysql.jdbc.Driver
-  url: jdbc:mysql://localhost/rsmortgage;MODE=MySQL
+  url: jdbc:mysql://localhost/root;MODE=MySQL
 
 #todo: make sure to always enable security in production
 security:
